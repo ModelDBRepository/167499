@@ -1,0 +1,29 @@
+# Functional realization file; only valid with synapse realization:
+# 29_CDK170205_L4pyD1_syn_realization.syn
+# Type - cell ID - synapse ID
+
+L4pyD1	90	0
+L4pyD1	160	1
+L4pyD1	463	2
+L4pyD1	197	3
+L4pyD1	410	4
+L4pyD1	437	5
+L4pyD1	326	6
+L4pyD1	12	7
+L4pyD1	358	8
+L4pyD1	430	9
+L4pyD1	61	10
+L4pyD1	197	11
+L4pyD1	12	12
+L4pyD1	12	13
+L4pyD1	160	14
+L4pyD1	160	15
+L4pyD1	61	16
+L4pyD1	12	17
+L4pyD1	326	18
+L4pyD1	61	19
+L4pyD1	430	20
+L4pyD1	160	21
+L4pyD1	90	22
+L4pyD1	410	23
+L4pyD1	358	24

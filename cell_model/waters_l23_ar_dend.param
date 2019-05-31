@@ -1,0 +1,132 @@
+
+{	
+	"info":
+	{
+		"name":		"waters_l23_ar_dend", 
+		"author":	"regger",
+		"date": 	"29Jan2013",
+	},
+	
+	"NMODL_mechanisms":
+	{
+		"mechanisms": "../../mechanisms",
+	},
+	
+	"mech_globals":
+	{
+	},
+	
+	"neuron":
+	{
+		"filename": "/home/regger/projects/L1sim/model_publication/NeuroNet/29_CDK170205_registered_D2.hoc",
+		
+		"Soma":
+		{
+			"properties":
+			{
+				"Ra": 150.0,
+				"cm": 1.0,
+			},
+			
+			"mechanisms":
+			{
+				"global":
+				{
+					
+				},
+				
+				"range":
+				{
+					"ar":
+					{
+						"spatial": "uniform",
+						"g0": 0.0002,
+						"c": 305000.0,
+						"e": -75.0,
+					},
+				},
+			},
+		},
+		
+		"Dendrite":
+		{
+			"properties":
+			{
+				"Ra": 150.0,
+				"cm": 1.0,
+				
+				"spines":
+				{
+					"density": 1.0,
+					"area": 0.8,
+				},
+			},
+			
+			"mechanisms":
+			{
+				"global":
+				{
+					
+				},
+				
+				"range":
+				{
+					"ar":
+					{
+						"spatial": "uniform",
+						"g0": 0.0002,
+						"c": 305000.0,
+						"e": -75.0,
+					},
+				},
+			},
+		},
+		
+		"ApicalDendrite":
+		{
+			"properties":
+			{
+				"Ra": 150.0,
+				"cm": 1.0,
+				
+				"spines":
+				{
+					"density": 1.0,
+					"area": 0.8,
+				},
+			},
+			
+			"mechanisms":
+			{
+				"global":
+				{
+					
+				},
+				
+				"range":
+				{
+					"ar":
+					{
+						"spatial": "uniform",
+						"g0": 0.0002,
+						"c": 305000.0,
+						"e": -75.0,
+					},
+				},
+			},
+		},
+	},
+	
+	"sim":
+	{
+		"Vinit": -75.0,
+		"tStart": 0.0,
+		"tStop": 250.0,
+		"dt": 0.025,
+		"T": 37.0,
+	},
+}
+
+
+
+

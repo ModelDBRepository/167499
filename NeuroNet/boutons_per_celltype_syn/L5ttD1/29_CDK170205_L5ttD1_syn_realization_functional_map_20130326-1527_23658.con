@@ -1,0 +1,9 @@
+# Functional realization file; only valid with synapse realization:
+# 29_CDK170205_L5ttD1_syn_realization.syn
+# Type - cell ID - synapse ID
+
+L5ttD1	337	0
+L5ttD1	352	1
+L5ttD1	352	2
+L5ttD1	352	3
+L5ttD1	352	4

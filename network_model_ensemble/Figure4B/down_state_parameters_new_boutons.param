@@ -1,0 +1,334 @@
+{
+  "info": {
+    "date": "06Feb2012",
+    "name": "down_state_parameters_new_boutons",
+    "author": "regger",
+  },
+  "network": {
+    "L3D1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 3145.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L3D1/29_CDK170205_L3D1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L5stD1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 912.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L5stD1/29_CDK170205_L5stD1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L1D1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1000.0,
+      "synapses": {
+        "releaseProb": 0.6,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L1D1/29_CDK170205_L1D1_ongoing_syn_realization.syn",
+        "receptors": {
+          "gaba_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "risetime": 1.0,
+              "decaygaba": 0.8,
+              "decaytime": 20.0,
+              "e": -75.0,
+            },
+            "weight": 0.6,
+          },
+        },
+      },
+    },
+    "L4pyD2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1776.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4pyD2/29_CDK170205_L4pyD2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L4pyD1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1776.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4pyD1/29_CDK170205_L4pyD1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L3D2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 3145.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L3D2/29_CDK170205_L3D2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L4ssD2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1930.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4ssD2/29_CDK170205_L4ssD2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L2D2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 2128.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L2D2/29_CDK170205_L2D2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L1D2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1000.0,
+      "synapses": {
+        "releaseProb": 0.6,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L1D2/29_CDK170205_L1D2_ongoing_syn_realization.syn",
+        "receptors": {
+          "gaba_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "risetime": 1.0,
+              "decaygaba": 0.8,
+              "decaytime": 20.0,
+              "e": -75.0,
+            },
+            "weight": 0.6,
+          },
+        },
+      },
+    },
+    "L5ttD1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 283.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L5ttD1/29_CDK170205_L5ttD1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L4ssD1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 1930.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4ssD1/29_CDK170205_L4ssD1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L4spD2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 3101.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4spD2/29_CDK170205_L4spD2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L2D1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 2128.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L2D1/29_CDK170205_L2D1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L5stD2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 912.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L5stD2/29_CDK170205_L5stD2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+    "L4spD1_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 3101.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L4spD1/29_CDK170205_L4spD1_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 0.55],
+          },
+        },
+      },
+    },
+    "L5ttD2_ongoing": {
+      "celltype": "spiketrain",
+      "interval": 283.0,
+      "synapses": {
+        "releaseProb": 0.1,
+        "distributionFile": "/nas1/Data_regger/L1_arno/29_CDK170205_model0/NeuroNet/boutons_per_celltype_syn/L5ttD2/29_CDK170205_L5ttD2_ongoing_syn_realization.syn",
+        "receptors": {
+          "glutamate_syn": {
+            "threshold": 0.0,
+            "delay": 0.0,
+            "parameter": {
+              "decayampa": 0.5,
+              "decaynmda": 0.6,
+              "tau1": 26.0,
+            },
+            "weight": [1.1, 1.1],
+          },
+        },
+      },
+    },
+  },
+  "NMODL_mechanisms": {
+    "mechanisms": "../../mechanisms",
+  },
+}
